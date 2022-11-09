@@ -43,7 +43,7 @@ return (dest);
  * _strdup - array to print a string
  * @str: array of elements
  * Return: pointer
- * */
+ */
 
 char *_strdup(char *str)
 {
